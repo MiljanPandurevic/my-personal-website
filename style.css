@@ -1,3 +1,21 @@
-body {
-    background: blue;
+header{
+    text-align: center;
+    background-color: rgb(100, 35, 133);
 }
+
+header>h2 {
+    font-size: 60px;
+    margin-top: auto;
+    font-style: italic;
+   }
+
+header>h1 {
+    font-style: italic;
+}
+
+div#About-me {
+    text-align: center;
+}
+
+
+
