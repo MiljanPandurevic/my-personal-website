@@ -6,24 +6,21 @@ header {
     background-color: lightblue;
 }
 
-header>h1 {
+div.left {
    text-align: center;
-   background-color: lightblue;
    margin: auto;
 }
 
-header>h2 {
-    text-align: center;
-    background-color: lightblue;
-    margin: auto;
-    font-size: 60px;
+div.right {
+    text-align: right;
 }
 
 div#About-me>h3 {
     text-align: center;
     font-size: 30px;
     border-style: groove;
-     
+    border-radius: 20px;
+    
 }
 
 div#About-me>p {
@@ -31,7 +28,10 @@ div#About-me>p {
     font-size: 30px;
     margin: auto;
     border-style: double;
+    border-radius: 20px;
+    background-color: lavender;
     }
+
 
 
 
