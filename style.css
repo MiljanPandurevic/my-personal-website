@@ -1,17 +1,10 @@
-*{
-    background-color: lightblue;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-
-header>h1,h2 {
-    text-align: center;
-   }
-
-
-
 div#About-me {
     text-align: center;
-}
+    background-color: grey;
+    }
 
+header {
+    background-color: grey;
+    }
 
 
