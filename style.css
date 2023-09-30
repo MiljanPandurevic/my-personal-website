@@ -1,17 +1,13 @@
-header{
-    text-align: center;
-    background-color: rgb(100, 35, 133);
+*{
+    background-color: lightblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-header>h2 {
-    font-size: 60px;
-    margin-top: auto;
-    font-style: italic;
+header>h1,h2 {
+    text-align: center;
    }
 
-header>h1 {
-    font-style: italic;
-}
+
 
 div#About-me {
     text-align: center;
