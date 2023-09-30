@@ -1,3 +1,7 @@
+*{
+    background-color: lightblue;
+}
+
 header {
     background-color: lightblue;
 }
@@ -14,6 +18,22 @@ header>h2 {
     margin: auto;
     font-size: 60px;
 }
+
+div#About-me>h3 {
+    text-align: center;
+    font-size: 30px;
+    border-style: groove;
+     
+}
+
+div#About-me>p {
+    text-align: center;
+    font-size: 30px;
+    margin: auto;
+    border-style: double;
+    }
+
+
 
 
 
