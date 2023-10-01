@@ -1,7 +1,9 @@
-header {
-    background-color: blueviolet;
+* {
+    background-color: lightblue;
 }
-
+header{
+    border-style:outset
+}
 .left{
     text-align: center;
     font-size: 35px;
@@ -18,12 +20,11 @@ div.right>ul  {
     padding-left: 20px; 
     padding-right: 20px;
     font-size: 20px;
-    background-color: aqua;
     font-family: monospace;
 }
 
 #About-me {
-    background-color: blueviolet;
+    border-style: outset;
 }
 
 #About-me>h3 {
@@ -37,7 +38,7 @@ div.right>ul  {
 #About-me>p {
     text-align: center;
     font-family: monospace;
-    font-size: 40px;
+    font-size: 30px;
     margin-top: auto;
 }
 
@@ -45,7 +46,26 @@ div.right>ul  {
     text-align: center;
 }
 
+h3.section-title {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    border-color: blueviolet;
+}
 
+li.skills-item {
+    text-align: center;
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    padding-right: 30px;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+section#Skills {
+    border-style: outset;
+}
 
 
 
