@@ -25,6 +25,7 @@ div.right>ul  {
 
 #About-me {
     border-style: outset;
+    border-color: black;
 }
 
 #About-me>h3 {
@@ -44,12 +45,14 @@ div.right>ul  {
 
 #Skills>h2 {
     text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
 }
 
 h3.section-title {
     text-align: center;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 30px;
+    font-size: 20px;
     border-color: blueviolet;
 }
 
@@ -60,12 +63,37 @@ li.skills-item {
     justify-content: center;
     padding-right: 30px;
     font-family: monospace;
-    font-size: 20px;
+    font-size: 17px;
 }
 
 section#Skills {
     border-style: outset;
+    border-width: 20px;
+    border-color: black;
 }
+
+h2.Work-Title{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Job-Title {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.job-description {
+    text-align: center;
+    font-family: monospace;
+} 
+
+#Work{
+    border-style: outset;
+    border-width: 20px;
+    border-color: black;
+}
+
+
 
 
 
